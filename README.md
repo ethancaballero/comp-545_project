@@ -11,7 +11,7 @@ To fit BNSLs to BIG-bench scaling behaviors, open `fit__big_bench__bnsl_jax.ipyn
 
 # 4-Digit Addition
 
-To fit BNSLs to 4-digit addition scaling behaviors as number of seeds vary, open `fit__4_digit_addition__bnsl_jax.ipynb` and run all the cells in order; e.g. open in a google colab and click `Runtime > Run all`.
+To fit BNSLs to 4-digit addition scaling behavior as number of seeds vary, open `fit__4_digit_addition__bnsl_jax.ipynb` and run all the cells in order; e.g. open in a google colab and click `Runtime > Run all`.
 
 To obtain more training runs of 4-digit addition scaling behavior, run the `adder.py` file while in the `minGPT` directory. For example, to obtain a training run at training dataset size of 640 when the random seed of the training run is 1, run this command while in the `minGPT` directory:
 
