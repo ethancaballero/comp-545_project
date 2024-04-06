@@ -1,0 +1,7 @@
+numpy
+torch
+jax
+flax
+kfac_jax
+matplotlib
+pandas
